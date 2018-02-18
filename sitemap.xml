@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.paoniu.love/about/index.html</loc>
+    
+    <lastmod>2018-02-18T13:09:39.575Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.paoniu.love/favourite/index.html</loc>
     
     <lastmod>2018-02-18T09:48:28.478Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>http://www.paoniu.love/2016/05/18/1618-UI%E5%AD%A6%E4%B9%A002-UIView/</loc>
     
     <lastmod>2016-05-18T16:00:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.paoniu.love/about/index.html</loc>
-    
-    <lastmod>2016-04-03T14:54:22.000Z</lastmod>
     
   </url>
   
